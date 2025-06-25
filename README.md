@@ -5,9 +5,8 @@ The client-side allows users to enter long URLs, sends requests to the server, a
 
 The server-side handles URL shortening, retrieval, and redirection. It utilizes Node.js, Express, and MongoDB. Existing URLs are fetched from the database, and new ones are stored in the database url-shortener.urls
 
-![image](https://github.com/sarthakvs/url_shortener/assets/98168713/efcfe589-a362-4d28-9333-ba9ccbd4b0a3)
+![image]
 
-Github Repo:- [sarthakvs/url_shortener](https://github.com/sarthakvs/url_shortener)
    
 # How to run
 1. Download and extract the project
